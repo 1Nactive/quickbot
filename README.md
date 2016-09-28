@@ -54,8 +54,11 @@ From this point on, you can start the bot by running the following command:
 
 #### Credits
 
-  * ([@InactiveUser][5]) - Lead developer
+  * [InactiveUser][5] - Owner & Lead Developer
+  * [Paredime][6] - Developer and Host
+
   * [Pokemon Showdown][1] - In-game data files  
 
   [5]: https://github.com/InactiveUser
+  [6]: https://github.com/Paredime
   [1]: https://github.com/Zarel/Pokemon-Showdown
